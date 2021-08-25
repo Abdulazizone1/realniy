@@ -81,6 +81,11 @@
         flex-direction: column;
         text-align: center;
     }
+    .exclusive img{
+        text-align: center;
+        width: 90vw;
+    }
+
     .exclusive div small h1{
         text-align: center;
         padding-top: 0em;
